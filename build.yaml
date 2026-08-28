@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: xiao_ble
+  - board: xiao_ble//zmk
     shield: 6x5_manuform_left
-  - board: xiao_ble
+  - board: xiao_ble//zmk
     shield: 6x5_manuform_right
